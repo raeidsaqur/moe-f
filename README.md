@@ -84,7 +84,7 @@ For scholastic references, please cite our paper as:
 
 ## 🙏 Acknowledgements
 
-Raeid Saqur (RS) is supported by Canada NSERC CGS-D Doctoral Grant. Anastasis Kratsios (AK) acknowledges financial support from an NSERC Discovery Grant No.\ RGPIN-2023-04482 and their McMaster Startup Funds. RS and AK acknowledge that resources used in preparing this research were provided, in part, by the Province of Ontario, the Government of Canada through CIFAR, and companies sponsoring the Vector Institute \href{https://vectorinstitute.ai/partnerships/current-partners/}{https://vectorinstitute.ai/partnerships/current-partners/}. The authors would also like to thank \href{https://vectorinstitute.ai/team/marshall-wang/}{Marshall Wang} for helping with reference code for computing DBRX experiments.
+Raeid Saqur (RS) is supported by Canada NSERC CGS-D Doctoral Grant. Anastasis Kratsios (AK) acknowledges financial support from an NSERC Discovery Grant No.\ RGPIN-2023-04482 and their McMaster Startup Funds. RS and AK acknowledge that resources used in preparing this research were provided, in part, by the Province of Ontario, the Government of Canada through CIFAR, and companies sponsoring the Vector Institute [https://vectorinstitute.ai/partnerships/current-partners/](https://vectorinstitute.ai/partnerships/current-partners/). The authors would also like to thank [Marshall Wang](https://vectorinstitute.ai/team/marshall-wang/) for helping with reference code for computing DBRX experiments.
 
 
 
